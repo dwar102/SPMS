@@ -28,6 +28,10 @@ To-Do:
 * Improve the styling of the application.
 
 ## Getting Started
+Using git bash, run:
+```
+git clone https://github.com/dwar102/SPMS
+```
 Import as a Maven Project.  Build and run.
 
 ## Usage
