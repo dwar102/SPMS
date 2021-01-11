@@ -7,6 +7,7 @@ The Story Pitch Management System is an application used for authors to create s
 * PostgreSQL
 * DBeaver
 * Java
+* JUnit
 * Javalin
 * Fetch
 * JavaScript
