@@ -42,5 +42,5 @@ Import as a Maven Project.  Build and run.
 9. Sign in as the original author to view your stories to view the status.
 10. Upload the draft of the story.
 
-##Contributors
+## Contributors
 * David Warrington
